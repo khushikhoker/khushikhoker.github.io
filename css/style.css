@@ -1,0 +1,135 @@
+.row-header {
+    margin: 0px auto;
+    padding:0px auto;
+
+}
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+.footer {
+    background-color:#deebe6;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.jumbotron {
+    padding: 60px 0px 0px 0px;
+    margin: 0px auto;
+    background:#deebe6;
+    color: #45b29a;
+    word-spacing: 10px;
+    
+    font-family: cursive;
+    
+}
+.address {
+    font-size: 80%;
+    margin:0px;
+    columns: #0f0f0f;
+}
+body{
+    padding: 50px 0px 0px 0px;
+    z-index:0;
+    margin: 0;
+}
+.navbar-dark{
+    background-color: #deebe6;
+    color:#45b29a ;
+}
+.card-header{
+    background-color: rgb(236, 206, 31);
+}
+.btn1{
+    
+    background-color:rgb(236, 206, 31) ;
+}
+.circular--square {
+    border-radius: 50%;
+  }
+
+.card2{
+    background-color:#7dcc93;
+    color:white;
+    border-color:#7dcc93 ;
+}
+.card-certi{
+    background-color:#7dcc93;
+    margin: 1px;
+    padding: 10px;
+    border-color:#7dcc93 ;
+}
+.heading{
+    background-color :#45b29a;
+}
+.addr1{
+    color: #45b29a;
+}
+.carousel{
+    background: #ae95e7;
+   background-image: url('background.jpeg');
+}
+.carousel-item {
+    height: 300px;
+
+}
+.carousel-item img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #45b29a;
+}
+.item-hide{
+    visibility: hidden;
+}
+h1 {      
+    font-size: 400%;  
+    color: #45b29a;  
+    font-family: cursive; 
+    padding-bottom: 20px;
+} 
+h6{
+    font-family: Cambria; 
+    padding-bottom: 20px;
+}
+h3{
+    color: #45b29a; 
+    font-family: Cambria;
+    padding-bottom: 20px;
+}
+.card-certi1{
+    background-color:rgb(214, 23, 71);
+    margin: 1px;
+    padding: 10px;
+    border-color:#7dcc93 ;
+}
+h2{
+    padding-bottom: 10px;
+}
+
+.top-container{
+    margin-top: 70px;
+}
+hr{
+    border: dotted #EAF6F6 6PX;
+    border-bottom: none;
+    width: 4%;
+    
+}
+a:hover{
+    color: #EAF6F6;
+}
+a{
+    color: #11999E;
+}
